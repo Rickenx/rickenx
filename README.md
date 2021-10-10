@@ -1,7 +1,7 @@
 <h1>Fala tu cria. </h1>
 
 <div>
-  <iframe src="https://assets.pinterest.com/ext/embed.html?id=584271751663205635" height="295" width="345" frameborder="0" scrolling="no" ></iframe>
+  <img src="https://assets.pinterest.com/ext/embed.html?id=584271751663205635" height="295" width="345" frameborder="0" scrolling="no" ></iframe>
 </div>
  <br>
     
