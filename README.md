@@ -1,7 +1,7 @@
 <h1>Fala tu cria. </h1>
 
 <div>
-  <img align="center" width="148" height="180" src="https://i.pinimg.com/originals/f2/41/45/f241453443d5e73704e9772ffe9a41af.gif">
+  <img align="center" width="306" height="171" src="https://i.pinimg.com/originals/f2/41/45/f241453443d5e73704e9772ffe9a41af.gif">
 </div>
  <br>
     
