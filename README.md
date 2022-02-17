@@ -1,9 +1,4 @@
 <h1>Fala tu cria. </h1>
-
-<div>
-  <img align="center" width="498" height="278" src="https://c.tenor.com/JnTh03kgMQoAAAAC/rei-ayanami.gif">
-</div>
- <br>
     
 </div>
  
